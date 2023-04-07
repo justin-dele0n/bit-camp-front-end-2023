@@ -1,2 +1,2 @@
 # bit-camp-front-end-2023
-Just all of the stuff 
+Just all of the stuff for front end.
